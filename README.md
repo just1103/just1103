@@ -13,7 +13,9 @@
 |1|숫자야구|PR|PR|-|-|-|@vayne77|@soll4u|
 
 ## Skill & Language
-* Swift, iOS, Git
+* Swift, iOS
+* JavaScript
+* Git, GitHub
 
 ## Contact me
 * ✏️ Blog : [애플사이다의 iOS 개발일지](https://applecider2020.tistory.com/)
