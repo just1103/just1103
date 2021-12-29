@@ -1,16 +1,21 @@
 ## iOS Education
-### 커리어 스타터 부트캠프 (수강 중)
-* 교육 기간 : 2021.08 - 2022.04 (24주 과정) 
-* 프로젝트 진행사항
 
-|No|Project|STEP1|STEP2|STEP3|STEP4|STEP5|Team|Reviewer|
-|-|-|-|-|-|-|-|-|-|
-|6|은행창구 매니저|PR|PR|PR|PR|-|@july911|@GREENOVER|
-|5|만국박람회|PR|PR|PR|-|-|@yanghojoon, @ChaminLee|@kcharliek|
-|4|계산기|PR|PR|PR|PR|RP|개인 프로젝트|@jae57|
-|3|쥬스메이커|PR|PR|PR|-|-|@ICS-Asan|@GREENOVER|
-|2|가위바위보|PR|PR|-|-|-|@hoBahk, @SIWONKIM|@joey-ful|
-|1|숫자야구|PR|PR|-|-|-|@vayne77|@soll4u|
+### ✅ iOS 커리어 스타터 부트캠프 / 야곰 아카데미 (수강 중)
+* 교육 기간 : 2021.08 - 2022.04 (24주 과정) 
+* 교육 내용 : iOS 개발을 위한 실무 코드 및 테크닉을 학습함
+* 프로젝트 진행사항
+  |No|Project|STEP1|STEP2|STEP3|STEP4|STEP5|Team|Reviewer|
+  |-|-|-|-|-|-|-|-|-|
+  |6|은행창구 매니저|PR|PR|PR|PR|-|@july911|@GREENOVER|
+  |5|만국박람회|PR|PR|PR|-|-|@yanghojoon, @ChaminLee|@kcharliek|
+  |4|계산기|PR|PR|PR|PR|RP|개인 프로젝트|@jae57|
+  |3|쥬스메이커|PR|PR|PR|-|-|@ICS-Asan|@GREENOVER|
+  |2|가위바위보|PR|PR|-|-|-|@hoBahk, @SIWONKIM|@joey-ful|
+  |1|숫자야구|PR|PR|-|-|-|@vayne77|@soll4u|
+
+### ✅ Swift 코드 스타터 부트캠프 / 야곰 아카데미
+* 교육 기간 : 2021.08 - 2021.09 (5주 과정)
+* 교육 내용 : Swift 문법 및 가독성 좋은 코드에 대한 기초를 다지고, 컴퓨터 기초, 타입 설계, 자료구조/알고리즘 등을 학습함
 
 ## Skill & Language
 * Swift, iOS
