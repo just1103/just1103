@@ -16,7 +16,6 @@
 * Swift, iOS, Git
 
 ## Contact me
-* 📫 Email : hyojuson1103@gmail.com
 * ✏️ Blog : [애플사이다의 iOS 개발일지](https://applecider2020.tistory.com/)
 
 <!--
