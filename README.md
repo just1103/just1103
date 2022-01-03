@@ -6,7 +6,8 @@
 * 프로젝트 진행사항
   |No|Project|STEP1|STEP2|STEP3|STEP4|STEP5|Team|Reviewer|
   |-|-|-|-|-|-|-|-|-|
-  |6|은행창구 매니저|PR|PR|PR|PR|-|@july911|@GREENOVER|
+  |7|오픈 마켓|-|-|-|-|-|@hwangjeha|@myssun0325|
+  |6|은행창구 매니저|PR|PR|PR|-|-|@july911|@GREENOVER|
   |5|만국박람회|PR|PR|PR|-|-|@yanghojoon, @ChaminLee|@kcharliek|
   |4|계산기|PR|PR|PR|PR|RP|개인 프로젝트|@jae57|
   |3|쥬스메이커|PR|PR|PR|-|-|@ICS-Asan|@GREENOVER|
