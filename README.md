@@ -1,12 +1,14 @@
 ## iOS Education
 
-### ✅ iOS 커리어 스타터 부트캠프 / 야곰 아카데미 (수강 중)
-* 교육 기간 : 2021.08 - 2022.04 (24주 과정) 
-* 교육 내용 : iOS 개발을 위한 실무 코드 및 테크닉을 학습함
+### ✅ <iOS 커리어 스타터 부트캠프> / 야곰아카데미 
+* 교육 기간 : 2021.08 - 2022.04 (24주 과정 수료) 
+* 교육 내용 : iOS 개발에 필요한 Swift/iOS 및 CS 지식을 학습함. 9개 개인/팀 프로젝트 및 현업자 코드 리뷰, 학습활동을 통해 실무 개발 역량을 쌓음
 * 프로젝트 진행사항
   |No|Project|STEP1|STEP2|STEP3|STEP4|STEP5|Team|Reviewer|
   |-|-|-|-|-|-|-|-|-|
-  |7|[오픈 마켓](https://github.com/just1103/ios-open-market/tree/step1)|PR|PR|-|-|-|@hwangjeha|@myssun0325|
+  |9|[프로젝트 매니저](https://github.com/just1103/ios-project-manager/commits/step2-2Rx)|PR|PR|-|-|-|개인 프로젝트|@daheenallwhite|    
+  |8|[동기화 메모장](https://github.com/just1103/ios-cloud-notes/tree/step3)|PR|PR|PR|PR|-|@yim2627, @oksunwoo|@protocorn93|  
+  |7|[오픈 마켓](https://github.com/just1103/ios-open-market/tree/step3)|PR|PR|PR|-|-|@hwangjeha|@myssun0325|
   |6|[은행창구 매니저](https://github.com/just1103/ios-bank-manager/tree/step3)|PR|PR|PR|-|-|@july911|@GREENOVER|
   |5|[만국박람회](https://github.com/just1103/ios-exposition-universelle)|PR|PR|PR|-|-|@yanghojoon, @ChaminLee|@kcharliek|
   |4|[계산기](https://github.com/just1103/ios-calculator-app/tree/step3)|PR|PR|PR|PR|RP|개인 프로젝트|@jae57|
@@ -18,13 +20,12 @@
    - 자료구조 : Array, Linked List, Stack, Queue, Deque, Tree, Graph, BST, Heap, Hash Table
    - 알고리즘 : sorting 일반/고급, Simulation, Brute Force, Recursion, Iteration, Binary Search, BFS/DFS, Backtracking, Divide and Conquer, Bit Manipulation, Two Pointers, Sliding Window, Dynamic Programming
 
-### ✅ Swift 코드 스타터 부트캠프 / 야곰 아카데미
-* 교육 기간 : 2021.08 - 2021.09 (5주 과정)
-* 교육 내용 : Swift 문법 및 가독성 좋은 코드에 대한 기초를 다지고, 컴퓨터 기초, 타입 설계, 자료구조/알고리즘 등을 학습함
+### ✅ <Swift 코드 스타터 부트캠프> / 야곰아카데미
+* 교육 기간 : 2021.08 - 2021.09 (5주 과정 수료)
+* 교육 내용 : Swift 문법을 바탕으로 프로그래밍 기초 및 타입 설계, 컴퓨터 하드웨어 기초, 자료구조/알고리즘 등을 학습함
 
 ## Skill & Language
 * Swift, iOS
-* JavaScript
 * Git, GitHub
 
 ## Contact me
