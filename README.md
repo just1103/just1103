@@ -1,7 +1,7 @@
 ## iOS Education
 
-### 🍎 <iOS 커리어 스타터 부트캠프> / 야곰아카데미 
-* 교육 기간 : 2021.08 - 2022.04 (24주 과정 수료) 
+### 🍎 <iOS 커리어 스타터 부트캠프> 수료 - 야곰아카데미 
+* 교육 기간 : 2021.08 - 2022.04 (24주 과정) 
 * 교육 내용 : iOS 개발에 필요한 Swift/iOS 및 CS 지식을 학습함. 9개 개인/팀 프로젝트 및 현업자 코드 리뷰, 학습활동을 통해 실무 개발 역량을 쌓음
 * 프로젝트 진행사항
   |No|Project (README)|iOS/Swift|CS|STEP1|STEP2|STEP3|STEP4|STEP5|Team|Reviewer|
@@ -20,8 +20,8 @@
    - 자료구조 : Array, Linked List, Stack, Queue, Deque, Tree, Graph, BST, Heap, Hash Table
    - 알고리즘 : sorting 일반/고급, Simulation, Brute Force, Recursion, Iteration, Binary Search, BFS/DFS, Backtracking, Divide and Conquer, Bit Manipulation, Two Pointers, Sliding Window, Dynamic Programming
 
-### 🍎 <Swift 코드 스타터 부트캠프> / 야곰아카데미
-* 교육 기간 : 2021.08 - 2021.09 (5주 과정 수료)
+### 🍎 <Swift 코드 스타터 부트캠프> 수료 - 야곰아카데미
+* 교육 기간 : 2021.08 - 2021.09 (5주 과정)
 * 교육 내용 : Swift 문법을 바탕으로 프로그래밍 기초 및 타입 설계, 컴퓨터 하드웨어 기초, 자료구조/알고리즘 등을 학습함
 
 ## Skill & Language
