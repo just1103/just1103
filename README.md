@@ -1,3 +1,27 @@
+## 프로젝트
+### 🍙 우리뭐먹지
+- 미니게임으로 사용자의 취향을 분석하여 혼자 또는 여럿이서 먹을 식사메뉴를 추천해주는 iOS 앱   
+   🔗 [앱 다운로드 링크](https://apps.apple.com/app/1632157845)
+   <img width="1152" alt="image" src="https://user-images.githubusercontent.com/70856586/178147195-49f6ccd8-1972-44aa-8abf-8e054bdc8839.png">
+- [GibHub WiKi](https://github.com/just1103/WhatWeEat/wiki/Home)
+- 팀원
+   - iOS : [호댕](https://github.com/yanghojoon), [애플사이다](https://github.com/just1103)
+   - 서버 : [핸손](https://github.com/handsone-u)  
+   - 디자인 : 앱 디자인 윤또, 로고 디자인 [geg_ole](https://www.instagram.com/geg_ole)
+- 진행 기간
+    - 기획 : 2022.03.27 ~ 2022.04.18 (약 2주)
+    - 개발 : 2022.05.19 ~ 2022.07.07 (약 9주)
+    - 출시 : 2022.07.07
+- Architecture : MVVM-C (ViewModel 복잡도 증가 시 CleanArchitecture 적용 예정)
+- ⚙️ 기술 스택    
+    - 개발 환경 
+        - iOS : swift 5, xcode 13.4
+        - 서버 : Java 17, IntelliJ IDEA
+    - 라이브러리 : 
+        - iOS : RxSwift, Firebase, Realm, SwiftLint, Lottie
+        - 서버 : Spring boot
+    - Deployment Target : iOS 14.0   
+
 ## iOS Education
 
 ### 🍎 야곰아카데미 <iOS 커리어 스타터 부트캠프> 수료
@@ -29,6 +53,7 @@
 * Git, GitHub 
 
 ## Contact me
+* ✉️ Email : hyojuson1103@gmail.com
 * ✏️ Blog : [애플사이다의 iOS 개발일지](https://applecider2020.tistory.com/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=just1103)](https://github.com/anuraghazra/github-readme-stats)
