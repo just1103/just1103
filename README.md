@@ -1,5 +1,5 @@
 ## 프로젝트
-### 🍙 우리뭐먹지
+### 🍙 우리뭐먹지 (AppStore 출시)
 - 미니게임으로 사용자의 취향을 분석하여 혼자 또는 여럿이서 먹을 식사메뉴를 추천해주는 iOS 앱   
    🔗 [앱 다운로드 링크](https://apps.apple.com/app/1632157845)
    <img width="1152" alt="image" src="https://user-images.githubusercontent.com/70856586/178147195-49f6ccd8-1972-44aa-8abf-8e054bdc8839.png">
