@@ -19,6 +19,7 @@
    - Network : URLSession, REST-ful API, JSON
    - UI : Build UI Programmatically, Auto Layout, CollectionView (DiffableDataSource, Compositional Layout), CoreGraphics, TabBarController/NavigationController, PageView, ActivityView, ProgressView, Timer, Alert 등
    - 라이브러리 : RxSwift, Firebase, Realm, SwiftLint, Lottie / 의존성 관리 : SPM
+   - 협업 툴 : Git Flow, Feature를 추가할 때마다 GitHub PR 작성
    - 개발 환경 : swift 5, xcode 13.4
    - Deployment Target : iOS 14.0      
    
