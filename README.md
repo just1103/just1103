@@ -1,4 +1,4 @@
-
+# Welcome to my page!
 > * 사용자의 라이프스타일을 혁신하는 서비스에 관심이 많습니다.
 > * 직관적인 UX/UI를 만들고자 HIG 문서의 디자인 원칙을 적극 참고합니다.
 > * 이유 있는 코드와 아키텍쳐를 지향합니다.
@@ -6,10 +6,10 @@
 > * 협업을 통해 함께 성장합니다.
 
 ## Skill & Language
-- iOS (UIKit) / Swift
-- Library : RxSwift, CoreData, Firebase, Realm, SwiftLint / 의존성 관리 : SPM, CocoaPods
-- TDD
-- Git / GitHub
+- <img src="https://img.shields.io/badge/iOS(UIKit)-181717?style=flat-square&logo=Apple&logoColor=Black"/> <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
+- <img src="https://img.shields.io/badge/RxSwift-b7178c?style=flat-square&logo=ReactiveX&logoColor=white"/> <img src="https://img.shields.io/badge/Realm-39477F?style=flat-square&logo=Realm&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=181717"/> / <img src="https://img.shields.io/badge/SPM-F05138?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/CocoaPods-EE3322?style=flat-square&logo=CocoaPods&logoColor=white"/>
+- <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+- <img src="https://img.shields.io/badge/TDD-009287?style=flat-square&logo=Cachet&logoColor=white"/>
 
 ## iOS Projects
 ### 🍙 우리뭐먹지 (AppStore 출시)
@@ -56,7 +56,7 @@
 * 교육 기간 : 2021.08 - 2021.09 (1개월 과정 수료)
 * 교육 내용 : Swift 문법을 바탕으로 프로그래밍 기초 및 타입 설계, 컴퓨터 하드웨어 등을 학습함
 
-## Contact me
+## Where to find me
 * ✉️ Email : hyojuson1103@gmail.com
 * ✏️ Blog : [애플사이다의 iOS 개발일지](https://applecider2020.tistory.com/)
 
