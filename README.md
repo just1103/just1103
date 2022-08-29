@@ -29,18 +29,17 @@
 - [README](https://github.com/just1103/MVVM-RX-OpenMarket)
 - 키워드 : MVVM, MockURLSession, MultipartFormData, Banner, Underlined MenuBar
 
-### 🍎 AppStore Clone
+### 📱 AppStore Clone
 - iTunes Search API를 통해 앱 검색 결과를 상세 화면에 나타내는 앱
-- 팀원 : 개인 프로젝트 
-- 담당 역할 : iOS 개발
+- 팀원 : 개인 프로젝트 (iOS 개발)
 - 진행 기간 : 2022.08 (1주)
 - [README](https://github.com/just1103/AppStore_Clone)
 - 키워드 : MVVM-C, Combine
 
 ## iOS Education
-### 🍎 iOS 커리어 스타터 부트캠프 / 야곰아카데미
+### 🍎 iOS 부트캠프 / 야곰아카데미
 * 교육 기간 : 2021.10 - 2022.04 (6개월 과정 수료) 
-* 교육 내용 : Swift/iOS 및 CS 지식을 학습함. 9개 팀/개인 프로젝트, 현업개발자 코드리뷰를 통해 실무 역량을 쌓음
+* 교육 내용 : Swift/iOS 및 CS 지식을 학습. 9개 팀/개인 프로젝트, 현업 개발자 코드리뷰 진행
 * 대표 프로젝트 Rull Request 예시 : [오픈 마켓 PR](https://github.com/yagom-academy/ios-open-market/pull/114), [동기화 메모장 PR](https://github.com/yagom-academy/ios-cloud-notes/pull/88)
 * 프로젝트 진행사항
   |No|Project (README)|iOS/Swift|CS|Team|Reviewer|
@@ -59,9 +58,9 @@
    - 자료구조 : Array, Linked List, Stack, Queue, Deque, Tree, Graph, BST, Heap, Hash Table
    - 알고리즘 : Sorting 일반/고급, Simulation, Brute Force, Recursion, Iteration, Binary Search, BFS/DFS, Backtracking, Divide and Conquer, Bit Manipulation, Two Pointers, Sliding Window, Dynamic Programming
 
-### 🍎 Swift 코드 스타터 부트캠프 / 야곰아카데미
+### 🍎 Swift 부트캠프 / 야곰아카데미
 * 교육 기간 : 2021.08 - 2021.09 (1개월 과정 수료)
-* 교육 내용 : Swift 문법을 바탕으로 프로그래밍 기초 및 타입 설계, 컴퓨터 하드웨어 등을 학습함
+* 교육 내용 : Swift 문법을 바탕으로 프로그래밍 기초 및 타입 설계, 컴퓨터 하드웨어 등을 학습
 
 ## Where to find me
 * ✉️ Email : hyojuson1103@gmail.com
