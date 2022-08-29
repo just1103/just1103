@@ -19,7 +19,7 @@
 - 담당 역할 : PM, iOS 개발
 - 진행 기간 : 2022.04 - 2022.07 (3개월)
 - [README](https://github.com/just1103/WhatWeEat) / [PR 목록](https://github.com/just1103/WhatWeEat/pulls?q=is%3Apr+is%3Aclosed) / [Wiki](https://github.com/just1103/WhatWeEat/wiki)
-- 기술 키워드 : MVVM-C, RxSwift
+- 키워드 : MVVM-C, RxSwift
    
 ### 🛒 MVVM/Rx 오픈마켓
 - 네트워크 통신으로 서버에서 데이터를 받아 상품의 목록화면 및 상세화면을 나타내는 앱
@@ -27,7 +27,15 @@
 - 담당 역할 : iOS 개발
 - 진행 기간 : 2022.04 - 2022.05 (1개월)
 - [README](https://github.com/just1103/MVVM-RX-OpenMarket)
-- 기술 키워드 : MVVM, MockURLSession, MultipartFormData, Banner, Underlined MenuBar
+- 키워드 : MVVM, MockURLSession, MultipartFormData, Banner, Underlined MenuBar
+
+### 🍎 AppStore Clone
+- iTunes Search API를 통해 앱 검색 결과를 상세 화면에 나타내는 앱
+- 팀원 : 개인 프로젝트 
+- 담당 역할 : iOS 개발
+- 진행 기간 : 2022.08 (1주)
+- [README](https://github.com/just1103/AppStore_Clone)
+- 키워드 : MVVM-C, Combine
 
 ## iOS Education
 ### 🍎 iOS 커리어 스타터 부트캠프 / 야곰아카데미
