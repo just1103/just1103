@@ -24,10 +24,16 @@
 ### 🛒 MVVM/Rx 오픈마켓
 - 네트워크 통신으로 서버에서 데이터를 받아 상품의 목록화면 및 상세화면을 나타내는 앱
 - 팀원 : iOS 개발 2명
-- 담당 역할 : iOS 개발
 - 진행 기간 : 2022.04 - 2022.05 (1개월)
 - [README](https://github.com/just1103/MVVM-RX-OpenMarket)
-- 키워드 : MVVM, MockURLSession, MultipartFormData, Banner, Underlined MenuBar
+- 키워드 : MVVM, Banner, Underlined MenuBar, DiffableDataSource, RxSwift
+
+### 🛒 MVC 오픈마켓
+- 서버 데이터를 받아 상품의 목록/상세, 등록화면을 나타냄
+- 팀원 : iOS 개발 2명
+- 진행 기간 : 2022.01 (1개월)
+- [README](https://github.com/just1103/ios-open-market)
+- 키워드 : MVC, MultipartFormData, MockURLSession
 
 ### 📱 AppStore Clone
 - iTunes Search API를 통해 앱 검색 결과를 상세 화면에 나타내는 앱
@@ -46,7 +52,7 @@
   |-|-|-|-|-|-|
   |9|[프로젝트 매니저](https://github.com/just1103/ios-project-manager/tree/step2-2Rx)|RxSwift, MVVM|DB|개인 프로젝트|@daheenallwhite|    
   |8|[동기화 메모장](https://github.com/just1103/ios-cloud-notes/tree/step3)|SplitView, Touch Event, CG|Core Data, Cloud|@yim2627, @oksunwoo|@protocorn93|  
-  |7|[오픈 마켓](https://github.com/just1103/ios-open-market/tree/step3)|CollectionView, Networking|HTTP, TCP/IP, POP|@hwangjeha|@myssun0325|
+  |7|[오픈 마켓](https://github.com/just1103/ios-open-market)|CollectionView, Networking|HTTP, TCP/IP, POP|@hwangjeha|@myssun0325|
   |6|[은행창구 매니저](https://github.com/just1103/ios-bank-manager/tree/step3)|ARC, App LifeCycle|Process/Thread, Sync/Async|@july911|@GREENOVER|
   |5|[만국박람회](https://github.com/just1103/ios-exposition-universelle)|JSON, TableView, Accessibility|함수형 프로그래밍|@yanghojoon, @ChaminLee|@kcharliek|
   |4|[계산기](https://github.com/just1103/ios-calculator-app/tree/step3)|SOLID, AutoLayout|UML, Stack, Unit Test|개인 프로젝트|@jae57|
