@@ -10,6 +10,13 @@
 - <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 - <img src="https://img.shields.io/badge/TDD-009287?style=flat-square&logo=Cachet&logoColor=white"/>
 
+## Professional Experiences
+#### [아이디어스](https://www.idus.com/) (백패커)
+- 핸드메이드 상품 거래 플랫폼
+- iOS 개발 / 2022.09 - 재직중
+- [국내 앱](https://apps.apple.com/kr/app/%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EC%8A%A4-idus/id872469884) 개발 및 유지보수
+- 글로벌 신규 앱 개발 
+
 ## iOS Projects
 ### 🍙 우리뭐먹지 (AppStore 출시)
 - 미니게임으로 사용자의 취향을 분석하여 다 같이 먹을 메뉴를 추천해주는 iOS 앱   
