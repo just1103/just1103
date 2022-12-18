@@ -1,8 +1,6 @@
 > * 사용자의 라이프스타일을 혁신하는 서비스에 관심이 많습니다.
-> * 직관적인 UX/UI를 만들고자 HIG 문서의 디자인 원칙을 적극 참고합니다.
 > * 이유 있는 코드와 아키텍쳐를 지향합니다.
 > * 지속가능한 성장을 추구하며, 그 과정을 기록합니다.
-> * 협업을 통해 함께 성장합니다.
 
 ## Skill & Language
 - <img src="https://img.shields.io/badge/iOS(UIKit)-181717?style=flat-square&logo=Apple&logoColor=Black"/> <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
