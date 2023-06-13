@@ -2,13 +2,14 @@
 > * 이유 있는 코드를 지향합니다.
 > * 지속 가능한 성장을 추구하며, 그 과정을 [기록](https://applecider2020.tistory.com/)합니다.
 
-## Skill & Language
-- <img src="https://img.shields.io/badge/iOS(UIKit)-181717?style=flat-square&logo=Apple&logoColor=Black"/> <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
-- <img src="https://img.shields.io/badge/RxSwift-b7178c?style=flat-square&logo=ReactiveX&logoColor=white"/> <img src="https://img.shields.io/badge/Combine-F05138?style=flat-square&logo=Swift&logoColor=white"/>
-- <img src="https://img.shields.io/badge/Realm-39477F?style=flat-square&logo=Realm&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=181717"/> / <img src="https://img.shields.io/badge/SPM-F05138?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/CocoaPods-EE3322?style=flat-square&logo=CocoaPods&logoColor=white"/>
-- <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-- <img src="https://img.shields.io/badge/TDD-009287?style=flat-square&logo=Cachet&logoColor=white"/>
+<br> 
 
+<div align=center>
+   
+<img src="https://img.shields.io/badge/iOS(UIKit)-181717?style=flat-square&logo=Apple&logoColor=Black"/> <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/RxSwift-b7178c?style=flat-square&logo=ReactiveX&logoColor=white"/> <img src="https://img.shields.io/badge/Combine-F05138?style=flat-square&logo=Swift&logoColor=white"/>
+
+</div>
+   
 ## Professional Experiences
 ### iOS developer [@백패커/아이디어스](https://team.idus.com/) ('23.09 ~ )
 - 누적거래액 8,700억원, 앱 다운로드 1,650만건의 핸드메이드 이커머스 플랫폼
@@ -25,12 +26,16 @@
 * 교육 기간 : '21.10 - '22.04 (6개월) 
 * 교육 내용 : Swift/iOS 및 CS 지식을 학습. 9개 팀/개인 프로젝트 진행
 * 대표 프로젝트 Rull Request 예시 : [오픈 마켓 PR](https://github.com/yagom-academy/ios-open-market/pull/114), [동기화 메모장 PR](https://github.com/yagom-academy/ios-cloud-notes/pull/88)
-* [See all projects](https://github.com/just1103/just1103/blob/main/Projects_Bootcamp.md)
+* [프로젝트 전체 내역](https://github.com/just1103/just1103/blob/main/Projects_Bootcamp.md)
 
 ### 🍎 Swift 부트캠프 / 야곰아카데미
 * 교육 기간 : '21.08 - '21.09 (1개월)
 * 교육 내용 : Swift 문법을 바탕으로 프로그래밍 기초, 컴퓨터 하드웨어 등 학습
 
 ## Where to find me
-* ✉️ Email : hyojuson1103@gmail.com
 * ✏️ Blog : [애플사이다의 iOS 개발일지](https://applecider2020.tistory.com/)
+* ✉️ Email : hyojuson1103@gmail.com
+
+<br>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjust1103&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
