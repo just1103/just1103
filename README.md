@@ -11,9 +11,9 @@
 </div>
    
 ## Professional Experiences
-### iOS developer [@백패커/아이디어스](https://team.idus.com/) ('23.09 - )
+### iOS developer [@백패커/아이디어스](https://team.idus.com/) ('22.09 - )
 - 누적거래액 8,700억원, 앱 다운로드 1,650만건의 핸드메이드 이커머스 플랫폼
-- [idus Global](https://apps.apple.com/kr/app/idus-global/id1632847460) 신규 개발 및 유지보수 ('23.02 배포) 
+- [idus Global 앱](https://apps.apple.com/kr/app/idus-global/id1632847460) 신규 개발 및 유지보수 ('23.02 배포) 
 - [아이디어스 앱](https://apps.apple.com/kr/app/%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EC%8A%A4-idus/id872469884) 개발 및 유지보수
 
 ## Side Projects
