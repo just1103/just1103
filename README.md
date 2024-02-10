@@ -1,6 +1,7 @@
-> * 사용자의 라이프스타일을 혁신하는 서비스에 관심이 많습니다.
-> * 이유 있는 코드를 지향합니다.
-> * 지속 가능한 성장을 추구하며, 그 과정을 [기록](https://applecider2020.tistory.com/)합니다.
+* 🎨 Interested in services that innovate users' lifestyles. 
+* ✏️ Committed to sustainable growth and keeping [track](https://applecider2020.tistory.com/) of how it happens. 
+* 👩‍🔧 Worked as an engineer at a coal-fired power plant for 4 years. 
+* 👩‍💻 Living through mobile apps pushed me to become an iOS developer. 
 
 <br> 
 
@@ -11,30 +12,34 @@
 </div>
    
 ## Professional Experiences
-### iOS developer [@백패커/아이디어스](https://team.idus.com/) ('22.09 - )
-- 누적거래액 8,700억원, 앱 다운로드 1,650만건의 핸드메이드 이커머스 플랫폼
-- [idus Global 앱](https://apps.apple.com/kr/app/idus-global/id1632847460) 신규 개발 및 유지보수 ('23.02 배포) 
-- [아이디어스 앱](https://apps.apple.com/kr/app/%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EC%8A%A4-idus/id872469884) 개발 및 유지보수
+### iOS developer at [Backpackr/idus](https://team.idus.com/) (Sep 2022 - Present)
+- Handmade e-commerce platform startup with 17 million app downloads, and 5 million MAU
+- Developed and maintained newly launched [idus Global app](https://apps.apple.com/kr/app/idus-global/id1632847460) (released in Feb 2023) 
+- Developed and maintained [idus Domestic app](https://apps.apple.com/kr/app/%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EC%8A%A4-idus/id872469884)
 
 ## Side Projects
-### 🍙 [우리뭐먹지](https://apps.apple.com/app/1632157845)
-- 미니게임으로 사용자의 취향을 분석하여 다 같이 먹을 메뉴를 추천해주는 iOS 앱 ([README](https://github.com/just1103/WhatWeEat) / [PR 목록](https://github.com/just1103/WhatWeEat/pulls?q=is%3Apr+is%3Aclosed) / [Wiki](https://github.com/just1103/WhatWeEat/wiki))
+### 🍙 [WhatToEat](https://github.com/just1103/WhatWeEat)
+> Apr 2022 - Jul 2022
+- An iOS app recommending meals to share based on 9 questions
    <img width="900" alt="image" src="https://user-images.githubusercontent.com/70856586/178147195-49f6ccd8-1972-44aa-8abf-8e054bdc8839.png">
 
-## Education
-### 🍎 iOS 부트캠프 / 야곰아카데미
-* '21.10 - '22.04 (6개월) 
-* iOS/UIKit/CS 등 학습, 9개 팀/개인 프로젝트 진행, 현업자 코드리뷰 반영
-* 대표 프로젝트 RR 예시 : [오픈 마켓 PR](https://github.com/yagom-academy/ios-open-market/pull/114), [동기화 메모장 PR](https://github.com/yagom-academy/ios-cloud-notes/pull/88)
-* [프로젝트 전체 목록](https://github.com/just1103/just1103/blob/main/Projects_Bootcamp.md)
+## Knowledge Sharing
+* Presentation on Localization for Global Apps [(Video)](https://www.youtube.com/watch?v=W4qfqU4h6iM) / [K-WWDC23](https://kwdc.dev/) (Jul 2023)
+* 3 times iOS Mentor for LikeLion Bootcamp (Dec 2022 - Present)
+* Technical Blog Posts: Over 80 posts with 5,000 monthly visitors (Sep 2021 - Present)
+* Writing Club for developers [글또](https://zzsza.notion.site/ac5b18a482fb4df497d4e8257ad4d516) (Jan 2021 - Present)
 
-### 🍎 Swift 부트캠프 / 야곰아카데미
-* '21.08 - '21.09 (1개월)
-* Swift 문법을 바탕으로 프로그래밍 기초, 컴퓨터 하드웨어 등 학습
+## Education
+### iOS Bootcamp / Yagom Academy
+> Oct 2021 - Apr 2022 
+* Studied iOS/CS, Enhanced practical skills through 9 team/individual projects and code reviews
+* PR Examples : [OpenMarket PR](https://github.com/yagom-academy/ios-open-market/pull/114), [SyncMemo PR](https://github.com/yagom-academy/ios-cloud-notes/pull/88)
+* [View all projects](https://github.com/just1103/just1103/blob/main/Projects_Bootcamp.md)
 
 ## Where to find me
-* ✏️ Blog : [애플사이다의 iOS 개발일지](https://applecider2020.tistory.com/)
-* ✉️ Email : hyojuson1103@gmail.com
+* ✏️ [Blog](https://applecider2020.tistory.com)
+* ✉️ [Email](hyojuson1103@gmail.com)
+* 🔗 [LinkedIn](https://www.linkedin.com/in/효주-손-730208b0/)
 
 <br>
 
