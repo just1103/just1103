@@ -39,7 +39,6 @@
 
 ## Where to find me
 * ✏️ [Blog](https://applecider2020.tistory.com)
-* ✉️ [Email](hyojuson1103@gmail.com)
 * 🔗 [LinkedIn](https://www.linkedin.com/in/효주-손-730208b0/)
 
 <br>
