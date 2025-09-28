@@ -12,17 +12,15 @@
 </div>
    
 ## Professional Experiences
+### iOS developer at [KakaoBank Corp.](https://www.kakaobank.com) 
+> Dec 2024 - Present
+- Worked on the 'KakaoBank' iOS app development
+
 ### iOS developer at [Backpackr/idus](https://team.idus.com/) 
 > Sep 2022 - Nov 2024
 - Handmade e-commerce platform startup with 17 million app downloads, and 5 million MAU
 - Developed and maintained newly launched [idus Global app](https://apps.apple.com/kr/app/idus-global/id1632847460) (released in Feb 2023) 
 - Developed and maintained [idus Domestic app](https://apps.apple.com/kr/app/%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EC%8A%A4-idus/id872469884)
-
-## Side Projects
-### 🍙 [WhatToEat](https://github.com/just1103/WhatWeEat)
-> Apr 2022 - Jul 2022
-- An iOS app recommending meals to share based on 9 questions
-   <img width="800" alt="image" src="https://user-images.githubusercontent.com/70856586/178147195-49f6ccd8-1972-44aa-8abf-8e054bdc8839.png">
 
 ## Knowledge Sharing
 * Presentation on Localization for Global Apps [(Video)](https://www.youtube.com/watch?v=W4qfqU4h6iM) / [K-WWDC23](https://kwdc.dev/) (Jul 2023)
