@@ -33,12 +33,9 @@
 > Oct 2021 - Apr 2022 
 * Studied iOS/CS, Enhanced practical skills through 9 team/individual projects and code reviews
 * PR Examples : [OpenMarket PR](https://github.com/yagom-academy/ios-open-market/pull/114), [SyncMemo PR](https://github.com/yagom-academy/ios-cloud-notes/pull/88)
-* [View all projects](https://github.com/just1103/just1103/blob/main/Projects_Bootcamp.md)
 
 ## Where to find me
 * ✏️ [Blog](https://applecider2020.tistory.com)
 * 🔗 [LinkedIn](https://www.linkedin.com/in/효주-손-730208b0/)
 
 <br>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjust1103&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
