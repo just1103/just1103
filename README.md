@@ -32,7 +32,6 @@
 ### iOS Bootcamp / Yagom Academy
 > Oct 2021 - Apr 2022 
 * Studied iOS/CS, Enhanced practical skills through 9 team/individual projects and code reviews
-* PR Examples : [OpenMarket PR](https://github.com/yagom-academy/ios-open-market/pull/114), [SyncMemo PR](https://github.com/yagom-academy/ios-cloud-notes/pull/88)
 
 ## Where to find me
 * ✏️ [Blog](https://applecider2020.tistory.com)
